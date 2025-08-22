@@ -13,8 +13,8 @@
 
  <table>
   <tr >
-    <td>姓 名</td><td  width="200px">肖亮</td>
-    <td>性 别</td><td  width="200px">男</td>
+    <td>姓 名</td><td  width="300px">肖亮</td>
+    <td>性 别</td><td  width="300px">男</td>
   </tr>
   <tr>
     <td>出生年月</td><td>1976年2月</td>
