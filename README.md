@@ -2,13 +2,13 @@
 ## 个人介绍
 | 照片 | 简要介绍 |
 |----------|--------------------------|
-|<img src="photo.png" align="left" width="1100"/>|**_肖亮_**，南京理工大学，紫金卓越教授，博士生导师，工学博士。入选国家万人计划科技创新领军人才、江苏省333工程领军科技人才（第二层次）、江苏省青蓝工程学术带头人，江苏省六大人才高峰计划。现任计算机学院副院长、教育部高维信息智能感知与系统重点实验室副主任、江苏省光谱信息感知与系统重点实验室副主任，CCF理事和杰出会员，中国计算机学会计算机视觉专委委员，江苏省计算机学会常务理事和学术工委主任。通过承担国家重点研发课题、科技部重大仪器专项、国家自然基金、江苏省前沿技术等国家级和省部级任务20余项，研制低空遥感大模型、多模态遥感智能解译系统、工业场景数字孪生和虚拟交互系统等，取得行业应用，获省部级科学技术奖7项。近五年，IEEE 汇刊、CVPR、ICCV等发表论文100余篇。拥有发明专利40余项；出版《现代图像处理学导论》《多源空谱遥感融合表示学习》等专著或教材5本，《图像分析基础》、《数据科学与工程》等3门课程获得省部级优秀课程，中国图象图形学会高等学校教育教学成果二等奖1项。|
+|<img src="photo.png" align="left" width="1100"/>|**_肖亮_**，南京理工大学，紫金卓越教授，博士生导师，工学博士。入选国家万人计划科技创新领军人才、江苏省333工程领军科技人才（第二层次）、江苏省青蓝工程学术带头人，江苏省六大人才高峰计划。现任计算机学院副院长、教育部高维信息智能感知与系统重点实验室副主任、江苏省光谱信息感知与系统重点实验室副主任，CCF理事和杰出会员，中国计算机学会计算机视觉专委委员，江苏省计算机学会常务理事和学术工委主任。通过承担国家重点研发课题、科技部重大仪器专项、国家自然基金、江苏省前沿技术等国家级和省部级任务20余项，研制低空遥感大模型、多模态遥感智能解译系统、工业场景数字孪生和虚拟交互系统等，取得行业应用，获省部级科学技术奖7项。近五年，IEEE 汇刊、CVPR、ICCV等发表论文100余篇。拥有发明专利40余项；出版《现代图像处理学导论》《多源空谱遥感融合表示学习》等专著或教材5本，《图像分析基础》、《数据科学与工程》等3门课程获得省部级优秀课程，中国图象图形学会高等学校教育教学成果二等奖1项。[ [官方主页](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=0Ca604ge!3!FaFPsimWxeA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) ]|
 
 
 # About Me
 | Photo | Introduction |
 |----------|--------------------------|
-|<img src="photo.png" align="left" width="1100"/>|**_Liang Xiao_** is a Zijin Distinguished Professor and Ph.D. supervisor at Nanjing University of Science and Technology. He has been recognized as a Leading Talent in Technological Innovation under the National Ten Thousand Talents Program and holds multiple provincial talent titles. He currently serves as Vice Dean of the School of Computer Science and Deputy Director of two key laboratories under the Ministry of Education and Jiangsu Province. His research focuses on remote sensing, computer vision, and intelligent perception systems. He has led over 20 national and provincial projects, published more than 100 papers in top journals and conferences such as IEEE Transactions, CVPR, and ICCV, and holds over 40 invention patents. He has received 7 provincial and ministerial-level Science and Technology Awards and authored several influential textbooks in image processing and remote sensing.|
+|<img src="photo.png" align="left" width="1100"/>|**_Liang Xiao_** is a Zijin Distinguished Professor and Ph.D. supervisor at Nanjing University of Science and Technology. He has been recognized as a Leading Talent in Technological Innovation under the National Ten Thousand Talents Program and holds multiple provincial talent titles. He currently serves as Vice Dean of the School of Computer Science and Deputy Director of two key laboratories under the Ministry of Education and Jiangsu Province. His research focuses on remote sensing, computer vision, and intelligent perception systems. He has led over 20 national and provincial projects, published more than 100 papers in top journals and conferences such as IEEE Transactions, CVPR, and ICCV, and holds over 40 invention patents. He has received 7 provincial and ministerial-level Science and Technology Awards and authored several influential textbooks in image processing and remote sensing. [ [Homepage](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=0Ca604ge!3!FaFPsimWxeA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) ]|
 
 
  <table>
@@ -151,7 +151,7 @@
 - 国家自然科学基金【面上】，结合时空统计学习的视频超分辨自适应稀疏正则化理论与算法，61171165，2012-01-01至2015-12-31 , 60万，主持
 - 国家自然科学基金， 基于形态分量分析的图像超分辨重建机理与算法研究，60802039， 2009-01-01至2011-12-31 , 20万，主持
 ## 发表论文
-- More paper : [ [Click Here](https://dblp.org/pid/x/LiangXiao1.html) ]
+- More Papers : [ [Click Here](https://dblp.org/pid/x/LiangXiao1.html) ]
 - Ling Hu, Qichao Liu, Jia Liu, Liang Xiao:PRBCD-Net: Predict-Refining-Involved Bidirectional Contrastive Difference Network for Unsupervised Change Detection. IEEE Trans. Geosci. Remote. Sens. 61: 1-17 (2023)
 - Wenzhen Wang, Fang Liu, Jia Liu, Liang Xiao:Cross-Domain Few-Shot Hyperspectral Image Classification With Class-Wise Attention. IEEE Trans. Geosci. Remote. Sens. 61: 1-18 (2023)
 - Wenzhen Wang, Fang Liu, Wenzhi Liao, Liang Xiao:Cross-Modal Graph Knowledge Representation and Distillation Learning for Land Cover Classification. IEEE Trans. Geosci. Remote. Sens. 61: 1-18 (2023)
@@ -172,5 +172,13 @@
 - 肖亮*; 韦志辉; 邵文泽, [著].基于图像先验建模的图像超分辨理论与算法：变分PDE，稀疏正则化与贝叶斯方法, 国防出版社, 2017.7
 - 张军，肖亮，韦志辉[著]，图像复原的变分正则化建模—从整数阶到分数阶，国防工业出版社，2021.8
 - 肖亮，张军，刘鹏飞[译著]，稀疏图像与信号处理：小波，曲波，形态多元性，国防工业出版社，2015.5
-
+## 指导学生情况
+- 指导毕业硕士研究生合计100余人（已经毕业68人），外国留学生8人。毕业硕士大部分去百度、阿里巴巴、华为等国际知名企业，硕士平均年薪在30万。
+- 指导或合作指导毕业博士合计20人，任职BAT等知名公司或任教南京理工大学、南京邮电大学等知名高校
+- 团队与美国、西班牙、葡萄牙、韩国、日本等IEEE Fellow 团队有紧密合作，学生有短期合作机会
+- 指导的博士生有刘鹏飞、王力谦、宋杰、吴慧聪、刘启超等，他们获优秀博士论文；大部分博士在攻读博士学位期间获得江苏省优秀研究生创新计划
+- 指导韩国亚非杰出青年科学家1人（Hiuk Jae Shim）（科技部教育中心亚非杰出青年科学家项目，2016.5-2017.5；目前Hiuk Jae Shim在南京信息工程大学教授职位）。指导博士后5人（张军、孙晋、葛琦、李敏、刘红毅，刘启超等均获得中国博士后基金和国家自然科学基金；目前均在南京知名高校任教；）
+## 我的团队
+- 团队为教育部“高维信息智能感知与系统”重点实验室、江苏省“光谱成像与智能感知”重点实验室（本人任该两个重点实验室副主任）、“社会安全图像与视频理解”等重点实验室的核心骨干成员。团队具有韦志辉教授、练智超副教授（耶鲁博士后）、刘嘉 副教授、刘芳 副教授、李敏博士，徐洋副教授、杨劲翔助理教授、陈璟洲助理教授等，年轻老师具有海外留学经历。
+- 团队与美国、西班牙、葡萄牙、韩国等IEEE Fellow 团队有紧密合作。
 
