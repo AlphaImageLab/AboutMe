@@ -1,6 +1,48 @@
 | Photo | Info |
 | :------: | :---: |
-| <img src="photo.png" alt="compare" width="300"/> | <table><tr><td><img src="inner1.png" width="80"/></td><td>说明1</td></tr><tr><td><img src="inner2.png" width="80"/></td><td>说明2</td></tr></table> |
+| <img src="photo.png" alt="compare" width="300"/> | <table>
+  <tr>
+    <td>姓 名</td><td>肖亮</td>
+    <td>性 别</td><td>男</td>
+  </tr>
+  <tr>
+    <td>出生年月</td><td>1976年2月</td>
+    <td>籍贯</td><td>湖南长沙</td>
+  </tr>
+  <tr>
+    <td>民 族</td><td>汉族</td>
+    <td>政治面貌</td><td>中国共产党党员</td>
+  </tr>
+  <tr>
+    <td>最高学历</td><td>研究生毕业</td>
+    <td>最后学位</td><td>工学博士</td>
+  </tr>
+  <tr>
+    <td>技术职称</td><td>教授</td>
+    <td>导师类别</td><td>博士生导师</td>
+  </tr>
+  <tr>
+    <td>导师类型</td><td>校内</td>
+    <td>兼职导师</td><td>否</td>
+  </tr>
+  <tr>
+    <td>行政职务</td><td>副院长</td>
+    <td>Email</td><td>xiaoliang@mail.njust.edu.cn</td>
+  </tr>
+  <tr>
+    <td>工作单位</td><td>南京理工大学计算机科学与工程学院</td>
+    <td>邮政编码</td><td>210094</td>
+  </tr>
+  <tr>
+    <td>通讯地址</td><td>南京市孝陵卫200号</td>
+  </tr>
+  <tr>
+    <td>单位电话</td><td>025-84315645</td>
+  </tr>
+  <tr>
+    <td>个人主页</td><td><a href="https://www.researchgate.net/profile/Liang-Xiao-14">https://www.researchgate.net/profile/Liang-Xiao-14</a></td>
+  </tr>
+</table> |
 
 # 个人介绍
 **_肖亮_**，南京理工大学，紫金卓越教授，博士生导师，工学博士。入选国家万人计划科技创新领军人才、江苏省333工程领军科技人才（第二层次）、江苏省青蓝工程学术带头人，江苏省六大人才高峰计划。现任计算机学院副院长、教育部高维信息智能感知与系统重点实验室副主任、江苏省光谱信息感知与系统重点实验室副主任，CCF理事和杰出会员，中国计算机学会计算机视觉专委委员，江苏省计算机学会常务理事和学术工委主任。通过承担国家重点研发课题、科技部重大仪器专项、国家自然基金、江苏省前沿技术等国家级和省部级任务20余项，研制低空遥感大模型、多模态遥感智能解译系统、工业场景数字孪生和虚拟交互系统等，取得行业应用，获省部级科学技术奖7项。近五年，IEEE 汇刊、CVPR、ICCV等发表论文100余篇。拥有发明专利40余项；出版《现代图像处理学导论》《多源空谱遥感融合表示学习》等专著或教材5本，《图像分析基础》、《数据科学与工程》等3门课程获得省部级优秀课程，中国图象图形学会高等学校教育教学成果二等奖1项。
