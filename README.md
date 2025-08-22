@@ -151,6 +151,7 @@
 - 国家自然科学基金【面上】，结合时空统计学习的视频超分辨自适应稀疏正则化理论与算法，61171165，2012-01-01至2015-12-31 , 60万，主持
 - 国家自然科学基金， 基于形态分量分析的图像超分辨重建机理与算法研究，60802039， 2009-01-01至2011-12-31 , 20万，主持
 ## 发表论文
+- More paper : [ [Click Here](https://dblp.org/pid/x/LiangXiao1.html) ]
 - Ling Hu, Qichao Liu, Jia Liu, Liang Xiao:PRBCD-Net: Predict-Refining-Involved Bidirectional Contrastive Difference Network for Unsupervised Change Detection. IEEE Trans. Geosci. Remote. Sens. 61: 1-17 (2023)
 - Wenzhen Wang, Fang Liu, Jia Liu, Liang Xiao:Cross-Domain Few-Shot Hyperspectral Image Classification With Class-Wise Attention. IEEE Trans. Geosci. Remote. Sens. 61: 1-18 (2023)
 - Wenzhen Wang, Fang Liu, Wenzhi Liao, Liang Xiao:Cross-Modal Graph Knowledge Representation and Distillation Learning for Land Cover Classification. IEEE Trans. Geosci. Remote. Sens. 61: 1-18 (2023)
