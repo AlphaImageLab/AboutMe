@@ -56,11 +56,11 @@
 ## 指导学科
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse:collapse; width:100%;">
   <tr>
-    <td style="width:100px;">学科专业(主)</td>
-    <td style="width:250px;">081203计算机应用技术</td>
-    <td style="width:80px;">招生类别</td>
-    <td style="width:100px;">博、硕士</td>
-    <td style="width:80px;">所在学院</td>
+    <td style="width:500px;">学科专业(主)</td>
+    <td>081203计算机应用技术</td>
+    <td>招生类别</td>
+    <td>博、硕士</td>
+    <td>所在学院</td>
     <td>计算机科学与工程学院</td>
   </tr>
   <tr>
