@@ -56,7 +56,7 @@
 ## 指导学科
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse:collapse; width:100%;">
   <tr>
-    <td style="width:500px;">学科专业(主)</td>
+    <td width="120px">学科专业(主)</td>
     <td>081203计算机应用技术</td>
     <td>招生类别</td>
     <td>博、硕士</td>
@@ -151,26 +151,26 @@
 - 国家自然科学基金， 基于形态分量分析的图像超分辨重建机理与算法研究，60802039， 2009-01-01至2011-12-31 , 20万，主持
 ## 发表论文
 - More Papers : [ [Click Here](https://dblp.org/pid/x/LiangXiao1.html) ]
-- Ling Hu, Qichao Liu, Jia Liu, Liang Xiao:PRBCD-Net: Predict-Refining-Involved Bidirectional Contrastive Difference Network for Unsupervised Change Detection. IEEE Trans. Geosci. Remote. Sens. 61: 1-17 (2023)
-- Wenzhen Wang, Fang Liu, Jia Liu, Liang Xiao:Cross-Domain Few-Shot Hyperspectral Image Classification With Class-Wise Attention. IEEE Trans. Geosci. Remote. Sens. 61: 1-18 (2023)
-- Wenzhen Wang, Fang Liu, Wenzhi Liao, Liang Xiao:Cross-Modal Graph Knowledge Representation and Distillation Learning for Land Cover Classification. IEEE Trans. Geosci. Remote. Sens. 61: 1-18 (2023)
-- Huicong Wu, Liang Xiao, Le Sun, Byeungwoo Jeon:A Novel Video Stabilization Model With Motion Morphological Component Priors. IEEE Trans. Multim. 25: 389-404 (2023)
-- Jia Liu, Maoguo Gong, Liang Xiao，et.al:Evolving Connections in Group of Neurons for Robust Learning. IEEE Trans. Cybern. 52(5): 3069-3082 (2022)
-- Ling Hu, Jia Liu, Liang Xiao.A Total Variation Regularized Bipartite Network for Unsupervised Change Detection. IEEE Trans. Geosci. Remote. Sens. 60: 1-18 (2022)
-- Nan Huang, Liang Xiao, Jianjun Liu, Jocelyn Chanussot:Graph Convolutional Sparse Subspace Coclustering With Nonnegative Orthogonal Factorization for Large Hyperspectral Images. IEEE Trans. Geosci. Remote. Sens. 60: 1-16 (2022)
-- Nan Huang, Liang Xiao, Yang Xu, Jocelyn Chanussot:A Bipartite Graph Partition-Based Coclustering Approach With Graph Nonnegative Matrix Factorization for Large Hyperspectral Images. IEEE Trans. Geosci. Remote. Sens. 60: 1-18 (2022)
-- Qichao Liu, Liang Xiao, Jingxiang Yang, Zhihui Wei:Multilevel Superpixel Structured Graph U-Nets for Hyperspectral Image Classification. IEEE Trans. Geosci. Remote. Sens. 60: 1-15 (2022
-- Hao Chen, Yangzhun Zhou, Jun Li, Xiu-Shen Wei, Liang Xiao:Self-Supervised Multi-Category Counting Networks for Automatic Check-Out. IEEE Trans. Image Process. 31: 3004-3016 (2022)
-- Huicong Wu, Liang Xiao, Zhihui Wei:Simultaneous Video Stabilization and Rolling Shutter Removal. IEEE Trans. Image Process. 30: 4637-4652 (2021)
-- Jie Song, Liang Xiao, Mohsen Molaei, Zhichao Lian:Sparse Coding Driven Deep Decision Tree Ensembles for Nucleus Segmentation in Digital Pathology Images. IEEE Trans. Image Process. 30: 8088-8101 (2021)
-- Jianjun Liu, Zebin Wu, Liang Xiao, Jun Sun, Hong Yan:A Truncated Matrix Decomposition for Hyperspectral Image Super-Resolution. IEEE Trans. Image Process. 29: 8028-8042 (2020)
+- Ling Hu, Qichao Liu, Jia Liu, **_Liang Xiao_**:PRBCD-Net: Predict-Refining-Involved Bidirectional Contrastive Difference Network for Unsupervised Change Detection. IEEE Trans. Geosci. Remote. Sens. 61: 1-17 (2023)
+- Wenzhen Wang, Fang Liu, Jia Liu, **_Liang Xiao_**:Cross-Domain Few-Shot Hyperspectral Image Classification With Class-Wise Attention. IEEE Trans. Geosci. Remote. Sens. 61: 1-18 (2023)
+- Wenzhen Wang, Fang Liu, Wenzhi Liao, **_Liang Xiao_**:Cross-Modal Graph Knowledge Representation and Distillation Learning for Land Cover Classification. IEEE Trans. Geosci. Remote. Sens. 61: 1-18 (2023)
+- Huicong Wu, **_Liang Xiao_**, Le Sun, Byeungwoo Jeon:A Novel Video Stabilization Model With Motion Morphological Component Priors. IEEE Trans. Multim. 25: 389-404 (2023)
+- Jia Liu, Maoguo Gong, **_Liang Xiao_**，et.al:Evolving Connections in Group of Neurons for Robust Learning. IEEE Trans. Cybern. 52(5): 3069-3082 (2022)
+- Ling Hu, Jia Liu, **_Liang Xiao_**.A Total Variation Regularized Bipartite Network for Unsupervised Change Detection. IEEE Trans. Geosci. Remote. Sens. 60: 1-18 (2022)
+- Nan Huang, **_Liang Xiao_**, Jianjun Liu, Jocelyn Chanussot:Graph Convolutional Sparse Subspace Coclustering With Nonnegative Orthogonal Factorization for Large Hyperspectral Images. IEEE Trans. Geosci. Remote. Sens. 60: 1-16 (2022)
+- Nan Huang, **_Liang Xiao_**, Yang Xu, Jocelyn Chanussot:A Bipartite Graph Partition-Based Coclustering Approach With Graph Nonnegative Matrix Factorization for Large Hyperspectral Images. IEEE Trans. Geosci. Remote. Sens. 60: 1-18 (2022)
+- Qichao Liu, **_Liang Xiao_**, Jingxiang Yang, Zhihui Wei:Multilevel Superpixel Structured Graph U-Nets for Hyperspectral Image Classification. IEEE Trans. Geosci. Remote. Sens. 60: 1-15 (2022
+- Hao Chen, Yangzhun Zhou, Jun Li, Xiu-Shen Wei, **_Liang Xiao_**:Self-Supervised Multi-Category Counting Networks for Automatic Check-Out. IEEE Trans. Image Process. 31: 3004-3016 (2022)
+- Huicong Wu, **_Liang Xiao_**, Zhihui Wei:Simultaneous Video Stabilization and Rolling Shutter Removal. IEEE Trans. Image Process. 30: 4637-4652 (2021)
+- Jie Song, **_Liang Xiao_**, Mohsen Molaei, Zhichao Lian:Sparse Coding Driven Deep Decision Tree Ensembles for Nucleus Segmentation in Digital Pathology Images. IEEE Trans. Image Process. 30: 8088-8101 (2021)
+- Jianjun Liu, Zebin Wu, **_Liang Xiao_**, Jun Sun, Hong Yan:A Truncated Matrix Decomposition for Hyperspectral Image Super-Resolution. IEEE Trans. Image Process. 29: 8028-8042 (2020)
 ## 出版专著和教材
-- 肖亮*, 杨劲翔,刘芳. 现代图像处理学导论，北京，科学出版社，2023..10
-- 肖亮*, 杨劲翔, 徐洋, 赵永强[著]. 多源空谱遥感图像融合的表示学习方法, 北京, 科学出版社, 2021.7.
-- 肖亮*; 刘鹏飞[著]. 空谱遥感图像融合建模机理与变分方法, 科学出版社, 2020.6
-- 肖亮*; 韦志辉; 邵文泽, [著].基于图像先验建模的图像超分辨理论与算法：变分PDE，稀疏正则化与贝叶斯方法, 国防出版社, 2017.7
-- 张军，肖亮，韦志辉[著]，图像复原的变分正则化建模—从整数阶到分数阶，国防工业出版社，2021.8
-- 肖亮，张军，刘鹏飞[译著]，稀疏图像与信号处理：小波，曲波，形态多元性，国防工业出版社，2015.5
+- **_肖亮_**, 杨劲翔,刘芳. 现代图像处理学导论，北京，科学出版社，2023..10
+- **_肖亮_**, 杨劲翔, 徐洋, 赵永强[著]. 多源空谱遥感图像融合的表示学习方法, 北京, 科学出版社, 2021.7.
+- **_肖亮_**; 刘鹏飞[著]. 空谱遥感图像融合建模机理与变分方法, 科学出版社, 2020.6
+- **_肖亮_**; 韦志辉; 邵文泽, [著].基于图像先验建模的图像超分辨理论与算法：变分PDE，稀疏正则化与贝叶斯方法, 国防出版社, 2017.7
+- 张军，**_肖亮_**，韦志辉[著]，图像复原的变分正则化建模—从整数阶到分数阶，国防工业出版社，2021.8
+- **_肖亮_**，张军，刘鹏飞[译著]，稀疏图像与信号处理：小波，曲波，形态多元性，国防工业出版社，2015.5
 ## 指导学生情况
 - 指导毕业硕士研究生合计100余人（已经毕业68人），外国留学生8人。毕业硕士大部分去百度、阿里巴巴、华为等国际知名企业，硕士平均年薪在30万。
 - 指导或合作指导毕业博士合计20人，任职BAT等知名公司或任教南京理工大学、南京邮电大学等知名高校
