@@ -9,8 +9,8 @@
 |----------|--------------------------|
 |<img src="photo.png" align="left" width="1100"/>|**_Liang Xiao_** is a Zijin Distinguished Professor and Ph.D. supervisor at Nanjing University of Science and Technology. He has been recognized as a Leading Talent in Technological Innovation under the National Ten Thousand Talents Program and holds multiple provincial talent titles. He currently serves as Vice Dean of the School of Computer Science and Deputy Director of two key laboratories under the Ministry of Education and Jiangsu Province. His research focuses on remote sensing, computer vision, and intelligent perception systems. He has led over 20 national and provincial projects, published more than 100 papers in top journals and conferences such as IEEE Transactions, CVPR, and ICCV, and holds over 40 invention patents. He has received 7 provincial and ministerial-level Science and Technology Awards and authored several influential textbooks in image processing and remote sensing. [ [Homepage](https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=0Ca604ge!3!FaFPsimWxeA==&yxsh=z70ppxVSQAs=&zydm=SwsWR9zpmmw=) ]|
 
-
- <table  border="1" >
+## 个人信息
+ <table  >
   <tr >
     <td>姓 名</td><td  width="280px">肖亮</td>
     <td>性 别</td><td  width="280px">男</td>
@@ -54,7 +54,7 @@
 </table> 
 
 ## 指导学科
-<table border="1" cellspacing="0" cellpadding="6" style="border-collapse:collapse; width:100%;">
+<table cellspacing="0" cellpadding="6" style="border-collapse:collapse; width:100%;">
   <tr>
     <td width="120px">学科专业(主)</td>
     <td>081203计算机应用技术</td>
